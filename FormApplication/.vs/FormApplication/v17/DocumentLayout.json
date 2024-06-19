@@ -1,12 +1,327 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\capitalPlacment Task\\FormApplication\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|e:\\capitalplacment task\\formapplication\\formapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|solutionrelative:formapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|e:\\capitalplacment task\\formapplication\\formapplication\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|solutionrelative:formapplication\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|e:\\capitalplacment task\\formapplication\\formapplication\\controllers\\employercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|solutionrelative:formapplication\\controllers\\employercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|e:\\capitalplacment task\\formapplication\\formapplication\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|solutionrelative:formapplication\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|e:\\capitalplacment task\\formapplication\\formapplication\\dtos\\applicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|solutionrelative:formapplication\\dtos\\applicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|e:\\capitalplacment task\\formapplication\\formapplication\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|solutionrelative:formapplication\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|e:\\capitalplacment task\\formapplication\\formapplication\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|solutionrelative:formapplication\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|e:\\capitalplacment task\\formapplication\\formapplication\\repositories\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|solutionrelative:formapplication\\repositories\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|e:\\capitalplacment task\\formapplication\\formapplication\\repositories\\questionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|solutionrelative:formapplication\\repositories\\questionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|e:\\capitalplacment task\\formapplication\\formapplication\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|solutionrelative:formapplication\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|e:\\capitalplacment task\\formapplication\\formapplication\\services\\questionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|solutionrelative:formapplication\\services\\questionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|e:\\capitalplacment task\\formapplication\\formapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|solutionrelative:formapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|e:\\capitalplacment task\\formapplication\\formapplication\\dtos\\createquestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|solutionrelative:formapplication\\dtos\\createquestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|e:\\capitalplacment task\\formapplication\\formapplication\\dtos\\updatequestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|solutionrelative:formapplication\\dtos\\updatequestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|e:\\capitalplacment task\\formapplication\\formapplication\\repositories\\iquestionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|solutionrelative:formapplication\\repositories\\iquestionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|e:\\capitalplacment task\\formapplication\\formapplication\\services\\iquestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|solutionrelative:formapplication\\services\\iquestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|e:\\capitalplacment task\\formapplication\\formapplication\\repositories\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|solutionrelative:formapplication\\repositories\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|e:\\capitalplacment task\\formapplication\\formapplication\\services\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|solutionrelative:formapplication\\services\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|e:\\capitalplacment task\\formapplication\\formapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{619C7404-F6C5-4C9E-8A27-BBC675CBD0D5}|FormApplication\\FormApplication.csproj|solutionrelative:formapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "FormApplication\\appsettings.json",
+              "ToolTip": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\appsettings.json",
+              "RelativeToolTip": "FormApplication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T09:55:49.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IApplicationService.cs",
+              "DocumentMoniker": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\Services\\IApplicationService.cs",
+              "RelativeDocumentMoniker": "FormApplication\\Services\\IApplicationService.cs",
+              "ToolTip": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\Services\\IApplicationService.cs",
+              "RelativeToolTip": "FormApplication\\Services\\IApplicationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:32:17.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IApplicationRepository.cs",
+              "DocumentMoniker": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\Repositories\\IApplicationRepository.cs",
+              "RelativeDocumentMoniker": "FormApplication\\Repositories\\IApplicationRepository.cs",
+              "ToolTip": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\Repositories\\IApplicationRepository.cs",
+              "RelativeToolTip": "FormApplication\\Repositories\\IApplicationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:30:43.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IQuestionService.cs",
+              "DocumentMoniker": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\Services\\IQuestionService.cs",
+              "RelativeDocumentMoniker": "FormApplication\\Services\\IQuestionService.cs",
+              "ToolTip": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\Services\\IQuestionService.cs",
+              "RelativeToolTip": "FormApplication\\Services\\IQuestionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:28:36.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IQuestionRepository.cs",
+              "DocumentMoniker": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\Repositories\\IQuestionRepository.cs",
+              "RelativeDocumentMoniker": "FormApplication\\Repositories\\IQuestionRepository.cs",
+              "ToolTip": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\Repositories\\IQuestionRepository.cs",
+              "RelativeToolTip": "FormApplication\\Repositories\\IQuestionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:26:55.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateQuestionDto.cs",
+              "DocumentMoniker": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\DTOs\\UpdateQuestionDto.cs",
+              "RelativeDocumentMoniker": "FormApplication\\DTOs\\UpdateQuestionDto.cs",
+              "ToolTip": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\DTOs\\UpdateQuestionDto.cs",
+              "RelativeToolTip": "FormApplication\\DTOs\\UpdateQuestionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:25:05.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateQuestionDto.cs",
+              "DocumentMoniker": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\DTOs\\CreateQuestionDto.cs",
+              "RelativeDocumentMoniker": "FormApplication\\DTOs\\CreateQuestionDto.cs",
+              "ToolTip": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\DTOs\\CreateQuestionDto.cs",
+              "RelativeToolTip": "FormApplication\\DTOs\\CreateQuestionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:24:23.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\Program.cs",
+              "RelativeDocumentMoniker": "FormApplication\\Program.cs",
+              "ToolTip": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\Program.cs",
+              "RelativeToolTip": "FormApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T05:37:35.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FormApplication\\appsettings.Development.json",
+              "ToolTip": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\appsettings.Development.json",
+              "RelativeToolTip": "FormApplication\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T05:37:31.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "FormApplication\\appsettings.Production.json",
+              "ToolTip": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\appsettings.Production.json",
+              "RelativeToolTip": "FormApplication\\appsettings.Production.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T05:37:28.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuestionService.cs",
+              "DocumentMoniker": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\Services\\QuestionService.cs",
+              "RelativeDocumentMoniker": "FormApplication\\Services\\QuestionService.cs",
+              "ToolTip": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\Services\\QuestionService.cs",
+              "RelativeToolTip": "FormApplication\\Services\\QuestionService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T05:35:28.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationService.cs",
+              "DocumentMoniker": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\Services\\ApplicationService.cs",
+              "RelativeDocumentMoniker": "FormApplication\\Services\\ApplicationService.cs",
+              "ToolTip": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\Services\\ApplicationService.cs",
+              "RelativeToolTip": "FormApplication\\Services\\ApplicationService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T05:34:50.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuestionRepository.cs",
+              "DocumentMoniker": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\Repositories\\QuestionRepository.cs",
+              "RelativeDocumentMoniker": "FormApplication\\Repositories\\QuestionRepository.cs",
+              "ToolTip": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\Repositories\\QuestionRepository.cs",
+              "RelativeToolTip": "FormApplication\\Repositories\\QuestionRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T05:33:13.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationRepository.cs",
+              "DocumentMoniker": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\Repositories\\ApplicationRepository.cs",
+              "RelativeDocumentMoniker": "FormApplication\\Repositories\\ApplicationRepository.cs",
+              "ToolTip": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\Repositories\\ApplicationRepository.cs",
+              "RelativeToolTip": "FormApplication\\Repositories\\ApplicationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T05:32:17.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Application.cs",
+              "DocumentMoniker": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "FormApplication\\Models\\Application.cs",
+              "ToolTip": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\Models\\Application.cs",
+              "RelativeToolTip": "FormApplication\\Models\\Application.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T05:30:07.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Question.cs",
+              "DocumentMoniker": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "FormApplication\\Models\\Question.cs",
+              "ToolTip": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\Models\\Question.cs",
+              "RelativeToolTip": "FormApplication\\Models\\Question.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAswEEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T05:29:25.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDTO.cs",
+              "DocumentMoniker": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\DTOs\\ApplicationDTO.cs",
+              "RelativeDocumentMoniker": "FormApplication\\DTOs\\ApplicationDTO.cs",
+              "ToolTip": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\DTOs\\ApplicationDTO.cs",
+              "RelativeToolTip": "FormApplication\\DTOs\\ApplicationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T05:18:50.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CandidateController.cs",
+              "DocumentMoniker": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\Controllers\\CandidateController.cs",
+              "RelativeDocumentMoniker": "FormApplication\\Controllers\\CandidateController.cs",
+              "ToolTip": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\Controllers\\CandidateController.cs",
+              "RelativeToolTip": "FormApplication\\Controllers\\CandidateController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T05:15:11.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployerController.cs",
+              "DocumentMoniker": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\Controllers\\EmployerController.cs",
+              "RelativeDocumentMoniker": "FormApplication\\Controllers\\EmployerController.cs",
+              "ToolTip": "E:\\capitalPlacment Task\\FormApplication\\FormApplication\\Controllers\\EmployerController.cs",
+              "RelativeToolTip": "FormApplication\\Controllers\\EmployerController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T05:14:44.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
